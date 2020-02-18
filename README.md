@@ -19,7 +19,7 @@ Login to SUSE Cloud Application Platform with the cf CLI:
 
 Clone the `Dora` App
     
-    $ git clone https://github.com/abonillasuse/dora.git
+    $ git clone https://github.com/rbejarano80/dora.git
 
     $ cd dora
 
@@ -90,7 +90,7 @@ Clone the `Sinatra` App, remember `-X `is your Student Number!
 
     $ cd ~
     
-    $ git clone https://github.com/abonillasuse/cf-example-sinatra
+    $ git clone https://github.com/rbejarano80/cf-example-sinatra
 
     $ cd cf-example-sinatra
 
@@ -222,7 +222,7 @@ Let's deploy an App from the WebUI
     
     # Leave Cloud Foundry / trainingX / spaceX and click Next
     
-    # Select Public Github / under Project type: abonillasuse/cf-example-sinatra / Branch: stratos / Click Next
+    # Select Public Github / under Project type: rbejarano80/cf-example-sinatra / Branch: stratos / Click Next
     
     # Choose the first Commit / Click Next
     
