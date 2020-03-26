@@ -8,7 +8,7 @@
 Login to the client System (*ONLY* necessary if not using own system)
 
     $ ssh trainingX@demo.geeko.land
-    ### Ask for Password ###
+    ### Ask for Password Suse4321! ###
 
 Login to SUSE Cloud Application Platform with the cf CLI:
 
